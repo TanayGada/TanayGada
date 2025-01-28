@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Distributed Systems**
 
-- 💬 Ask me about **MERN Stack, NEXTJS,**
+-  👨‍💻 I'm a Core Member of the Community Of Coders (CoC), VJTI
+
+- 💬 Ask me about **MERN Stack, NEXTJS, Problem Solving**
 
 - 📫 How to reach me **tngada_b22@ce.vjti.ac.in**
 
